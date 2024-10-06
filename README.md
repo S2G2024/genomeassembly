@@ -2,15 +2,16 @@
 
 #BGA24/sessions #GitPod #Pipeline #Nextflow
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/genomeassembly) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/genomeassembly) 
 
 ## Session Leader(s)
 
 Wellcome Genome Campus
 
 - Ksenia Krasheninnikova, PhD
+- Noah Gettle
 
 
 ## Description
